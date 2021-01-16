@@ -1,4 +1,4 @@
-PDF POC
+PDF POC Project Landing Page for GKMIT Online BookStore
 
 ## SetUp
 
