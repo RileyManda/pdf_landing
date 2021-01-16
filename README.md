@@ -1,4 +1,9 @@
-PDF POC Project Landing Page for GKMIT Online BookStore
+PDF POC Project Landing Page for GKMIT Online BookStore-Front End Development
+
+## TechStack
+
+#MERN Stack
+React,Redux,NodeJS
 
 ## SetUp
 
@@ -17,5 +22,3 @@ http://localhost:3000<br />
 
 ### `npm run build`
 
-# pdfopc
-# pdf_landing
